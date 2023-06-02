@@ -1,0 +1,15 @@
+C:\Users\Brandon\source\repos\AnalizadorSintacticoLL\AnalizadorSintacticoLL\bin\Debug\net6.0\AnalizadorSintacticoLL.exe
+C:\Users\Brandon\source\repos\AnalizadorSintacticoLL\AnalizadorSintacticoLL\bin\Debug\net6.0\AnalizadorSintacticoLL.deps.json
+C:\Users\Brandon\source\repos\AnalizadorSintacticoLL\AnalizadorSintacticoLL\bin\Debug\net6.0\AnalizadorSintacticoLL.runtimeconfig.json
+C:\Users\Brandon\source\repos\AnalizadorSintacticoLL\AnalizadorSintacticoLL\bin\Debug\net6.0\AnalizadorSintacticoLL.dll
+C:\Users\Brandon\source\repos\AnalizadorSintacticoLL\AnalizadorSintacticoLL\bin\Debug\net6.0\AnalizadorSintacticoLL.pdb
+C:\Users\Brandon\source\repos\AnalizadorSintacticoLL\AnalizadorSintacticoLL\obj\Debug\net6.0\AnalizadorSintacticoLL.csproj.AssemblyReference.cache
+C:\Users\Brandon\source\repos\AnalizadorSintacticoLL\AnalizadorSintacticoLL\obj\Debug\net6.0\AnalizadorSintacticoLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brandon\source\repos\AnalizadorSintacticoLL\AnalizadorSintacticoLL\obj\Debug\net6.0\AnalizadorSintacticoLL.AssemblyInfoInputs.cache
+C:\Users\Brandon\source\repos\AnalizadorSintacticoLL\AnalizadorSintacticoLL\obj\Debug\net6.0\AnalizadorSintacticoLL.AssemblyInfo.cs
+C:\Users\Brandon\source\repos\AnalizadorSintacticoLL\AnalizadorSintacticoLL\obj\Debug\net6.0\AnalizadorSintacticoLL.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\source\repos\AnalizadorSintacticoLL\AnalizadorSintacticoLL\obj\Debug\net6.0\AnalizadorSintacticoLL.dll
+C:\Users\Brandon\source\repos\AnalizadorSintacticoLL\AnalizadorSintacticoLL\obj\Debug\net6.0\refint\AnalizadorSintacticoLL.dll
+C:\Users\Brandon\source\repos\AnalizadorSintacticoLL\AnalizadorSintacticoLL\obj\Debug\net6.0\AnalizadorSintacticoLL.pdb
+C:\Users\Brandon\source\repos\AnalizadorSintacticoLL\AnalizadorSintacticoLL\obj\Debug\net6.0\AnalizadorSintacticoLL.genruntimeconfig.cache
+C:\Users\Brandon\source\repos\AnalizadorSintacticoLL\AnalizadorSintacticoLL\obj\Debug\net6.0\ref\AnalizadorSintacticoLL.dll
